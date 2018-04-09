@@ -1,0 +1,4 @@
+eingabe = input("Bitte Anzahl der Haltestellen eingeben:")
+for range(i=0 i == eingabe):
+  input = anzahl("Wie viele Personen steigen ein:")
+print("Bei ", eingabe, " Haltestellen sind ", anzahl, " Personen eingestiegen")
